@@ -1,3 +1,3 @@
-# Sounding-and-ERA5-Data-Visualization
+# sounding_visualization
 
 Currently under constuction
